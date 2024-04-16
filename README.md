@@ -19,7 +19,8 @@
 ![20](https://github.com/NoeliaOriola/Amsterdam_house_price_prediction/assets/151629602/37e23a79-02c7-44e4-8269-0ca3fd876091)
 ![21](https://github.com/NoeliaOriola/Amsterdam_house_price_prediction/assets/151629602/78f3031b-0673-467f-a811-0bfd104cd3d5)
 ![22](https://github.com/NoeliaOriola/Amsterdam_house_price_prediction/assets/151629602/17dcbf73-9181-4f28-be38-52555ed40f39)
-![23](https://github.com/NoeliaOriola/Amsterdam_house_price_prediction/assets/151629602/08daf46d-44f3-4945-a968-b1715f03da22)
+![23](https://github.com/NoeliaOriola/Amsterdam_house_price_prediction/assets/151629602/c08b5e6b-b7f2-43eb-9fa7-085833485edc)
+
 
 
 
